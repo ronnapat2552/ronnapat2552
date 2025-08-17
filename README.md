@@ -11,6 +11,7 @@ Here are some of the projects I'm most proud of:
 
 - [Math Game](https://sites.google.com/view/tete-page/project/math-game): Command Line Interface game, written in Python.
 - [Calculator GUI](https://github.com/ronnapat2552/calc_gui): A Simple Calculator written in Python with Tkinter.
+- [Quadrant Ranking](https://github.com/ronnapat2552/quadrant_ranking): A 2D Tier List made with Python + Tkinter.
 
 ## 🤝 Contact
 You can contact me by:
