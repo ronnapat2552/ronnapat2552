@@ -3,7 +3,8 @@ Welcome to my GitHub Profile! <br>
 My name is **Ronnapat Phawaphootanon**. <br>
 I like to coding *(sometime)*, and do random stuff.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnapat2552&show_icons=true&theme=radical)
+I'm diagnosed as **Asperger's Syndrome**,<br>
+as a form of **Autism Spectrum Disorder (ASD)**.
 
 ## 🌟 Featured Projects
 
